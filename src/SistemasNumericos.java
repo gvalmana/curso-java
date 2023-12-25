@@ -23,7 +23,7 @@ public class SistemasNumericos {
             int numeroHex = 0x1F4;
             System.out.println("numeroHex = " + numeroHex);
             String message = textoBinario;
-            message += "\n"+ textoOctal;
+            message += "\n" + textoOctal;
             message += "\n" + textoHexadecimal;
             JOptionPane.showMessageDialog(null, message);
         } catch (NumberFormatException exception) {

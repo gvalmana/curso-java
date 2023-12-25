@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d13bbe8-1aaa-4c05-8c33-b1d3efcccd36" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
-    </list>
+    <list default="true" id="6d13bbe8-1aaa-4c05-8c33-b1d3efcccd36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,9 +53,10 @@
     "Application.HolaMundo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging dev",
+    "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/sysadmin/Documentos/PERSONALES/curso-java/HelloWorld/src/Main.java"
+    "onboarding.tips.debug.path": "/home/sysadmin/Documentos/PERSONALES/curso-java/HelloWorld/src/Main.java",
+    "settings.editor.selected.configurable": "proofread"
   }
 }]]></component>
   <component name="RunManager">

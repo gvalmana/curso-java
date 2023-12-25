@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d13bbe8-1aaa-4c05-8c33-b1d3efcccd36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosEnteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RefactorCaracteres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,7 @@
     "Application.PrimitivosBoolean.executor": "Run",
     "Application.PrimitivosFloat.executor": "Run",
     "Application.RefactorCaracteres.executor": "Run",
+    "Application.SistemasNumericos.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d13bbe8-1aaa-4c05-8c33-b1d3efcccd36" name="Changes" comment="" />
+    <list default="true" id="6d13bbe8-1aaa-4c05-8c33-b1d3efcccd36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosEnteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitivosFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RefactorCaracteres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +32,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gvalmana"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gvalmana&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -38,6 +45,9 @@
         <option name="url" value="git@github.com:gvalmana/curso-java.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -50,7 +60,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Caracteres.executor": "Run",
     "Application.HolaMundo.executor": "Run",
+    "Application.Primitivos.executor": "Run",
+    "Application.PrimitivosBoolean.executor": "Run",
+    "Application.PrimitivosFloat.executor": "Run",
+    "Application.RefactorCaracteres.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
@@ -67,8 +82,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimitivosEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitivosEnteros" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimitivosEnteros" />
+        <item itemvalue="Application.HolaMundo" />
         <item itemvalue="Application.HolaMundo" />
       </list>
     </recent_temporary>

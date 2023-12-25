@@ -10,5 +10,8 @@ public class PrimitivosBoolean {
         System.out.println("f = " + f);
         System.out.println("d = " + d);
         System.out.println("datoLogico = " + datoLogico);
+
+        boolean esIqual = (3-2 == 1);
+        System.out.println("esIqual = " + esIqual);
     }
 }

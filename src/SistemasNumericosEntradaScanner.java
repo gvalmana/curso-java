@@ -1,4 +1,3 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class SistemasNumericosEntradaScanner {
@@ -9,7 +8,7 @@ public class SistemasNumericosEntradaScanner {
         int numeroDecimal = 0;
         try {
             numeroDecimal = scanner.nextInt();
-        } catch (InputMismatchException exception) {
+        } catch (Exception exception) {
             System.out.println("Debe ingresar un numero entero");
             main(args);
             System.exit(0);

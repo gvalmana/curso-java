@@ -5,11 +5,10 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class EjemploJavaUtilDateParse {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String formato = "yyyy-MM-dd";
-        SimpleDateFormat simpleDateFormat= new SimpleDateFormat(formato);
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat(formato);
         System.out.println("Entre una fecha con formato " + formato);
         try {
             Date fecha = simpleDateFormat.parse(scan.next());
@@ -32,7 +31,9 @@ public class EjemploJavaUtilDateParse {
                 System.out.println("Las fechas son iguales");
             }
         } catch (ParseException e) {
-            e.printStackTrace();
+            System.err.println("La fecha tiene un formato incorrecto: " + e.getMessage());
+            System.err.println("El formato de la fecha debe ser: " + formato);
+            main(args);
         }
     }
 }

@@ -19,9 +19,14 @@ public class EjemploAsignarPropiedadesDeSistema {
             System.out.println(System.getProperty("config.autor.email"));
             ps.list(System.out);
         } catch (FileNotFoundException e) {
-            System.out.println("No existe el archivo " + e);
+            System.err.println("No existe el archivo " + e);
+            System.exit(1);
         } catch (IOException e) {
-            System.out.println("Error al intentar cargar las configuraciones");
+            System.err.println("Error al intentar cargar las configuraciones");
+            System.exit(1);
+        } catch (Exception e) {
+            System.err.println("Error en el sistema: " + e.getMessage());
+            System.exit(1);
         }
     }
 }

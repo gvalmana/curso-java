@@ -1,9 +1,5 @@
 ### IntelliJ IDEA ###
-<<<<<<< HEAD
-out/
-=======
 out/*
->>>>>>> c653348 (Clase terminada)
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/*
@@ -31,10 +27,6 @@ bin/
 .vscode/
 
 ### Mac OS ###
-<<<<<<< HEAD
-.DS_Store
-=======
 .DS_Store
 /.idea/
 /out/
->>>>>>> c653348 (Clase terminada)

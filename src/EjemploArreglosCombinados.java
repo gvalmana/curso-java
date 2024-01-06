@@ -11,12 +11,12 @@ public class EjemploArreglosCombinados {
             b[i] = (i + 1) * 5;
         }
         int aux = 0;
-        for (int i = 0; i < 10; i+=3) {
+        for (int i = 0; i < 10; i += 3) {
             for (int j = 0; j < 3; j++) {
-                c[aux++] = a[i+j];
+                c[aux++] = a[i + j];
             }
             for (int j = 0; j < 3; j++) {
-                c[aux++] = b[i+j];
+                c[aux++] = b[i + j];
             }
         }
         for (int i = 0; i < c.length; i++) {

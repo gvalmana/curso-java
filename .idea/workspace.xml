@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd8d83c-25a6-488d-8500-6e6f8e9f9cfe" name="Changes" comment="Clase terminada">
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion2b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosDesplazarPosicion3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploArreglosEliminar.java" afterDir="false" />
+    <list default="true" id="afd8d83c-25a6-488d-8500-6e6f8e9f9cfe" name="Changes" comment="corregido el gitignore">
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesBuscarElemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesString2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjemploArreglosCombinados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploArreglosCombinados.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,11 @@
     "Application.EjemploArreglosInversoMutable.executor": "Run",
     "Application.EjemploArreglosNumeroMayor.executor": "Run",
     "Application.EjemploArreglosParesImpares.executor": "Run",
+    "Application.EjemploMatrices.executor": "Run",
+    "Application.EjemploMatricesBuscarElemento.executor": "Run",
+    "Application.EjemploMatricesColumnasVariables.executor": "Run",
+    "Application.EjemploMatricesString.executor": "Run",
+    "Application.EjemploMatricesString2.executor": "Run",
     "Application.EjemploOrdenamientoBurbuja.executor": "Run",
     "Application.EjemploOrderInicioFinal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -104,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704219021070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase arreglos terminada">
+      <option name="closed" value="true" />
+      <created>1704558869403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704558869403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="corregido el gitignore">
+      <option name="closed" value="true" />
+      <created>1704558956026</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704558956026</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Clase terminada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase terminada" />
+    <MESSAGE value="Clase arreglos terminada" />
+    <MESSAGE value="corregido el gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="corregido el gitignore" />
   </component>
 </project>

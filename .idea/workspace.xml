@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afd8d83c-25a6-488d-8500-6e6f8e9f9cfe" name="Changes" comment="corregido el gitignore">
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesBuscarElemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesIdentidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesMarco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSimetricas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTrasponerMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTraspuesta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +58,15 @@
     "Application.EjemploMatrices.executor": "Run",
     "Application.EjemploMatricesBuscarElemento.executor": "Run",
     "Application.EjemploMatricesColumnasVariables.executor": "Run",
+    "Application.EjemploMatricesIdentidad.executor": "Run",
+    "Application.EjemploMatricesMarco.executor": "Run",
+    "Application.EjemploMatricesSimetricas.executor": "Run",
     "Application.EjemploMatricesString.executor": "Run",
     "Application.EjemploMatricesString2.executor": "Run",
+    "Application.EjemploMatricesSumar.executor": "Run",
+    "Application.EjemploMatricesSumarFilasColumnas.executor": "Run",
+    "Application.EjemploMatricesTrasponerMatriz.executor": "Run",
+    "Application.EjemploMatricesTraspuesta.executor": "Run",
     "Application.EjemploOrdenamientoBurbuja.executor": "Run",
     "Application.EjemploOrderInicioFinal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -124,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704558956026</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="corregido el gitignore">
+      <option name="closed" value="true" />
+      <created>1704835131637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704835131637</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
